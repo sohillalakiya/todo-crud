@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL: https://sohillalakiya.github.io/todo-crud
+
+This web app contains:
+
+    Mapping, Filter and other plain javascript functions and Local-Storage,
+
+    UseState, UseEffect Hook
+
+Note: This web app is all about CRUD operation in ReactJS with local storage
 
 ## Available Scripts
 
