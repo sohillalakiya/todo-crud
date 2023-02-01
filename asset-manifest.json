@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-crud/static/css/main.beef6503.css",
+    "main.js": "/todo-crud/static/js/main.a3abb09f.js",
+    "static/js/787.c7d272c5.chunk.js": "/todo-crud/static/js/787.c7d272c5.chunk.js",
+    "index.html": "/todo-crud/index.html",
+    "main.beef6503.css.map": "/todo-crud/static/css/main.beef6503.css.map",
+    "main.a3abb09f.js.map": "/todo-crud/static/js/main.a3abb09f.js.map",
+    "787.c7d272c5.chunk.js.map": "/todo-crud/static/js/787.c7d272c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.a3abb09f.js"
+  ]
+}
